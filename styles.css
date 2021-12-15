@@ -41,9 +41,10 @@ margin: 5px;
 nav {
 flex: 2;
 }
-.nav-links {
+.nav-links{
 justify-content: space-around;
 list-style: none;
+
 }
 .nav-link {
 color: black;
@@ -113,6 +114,7 @@ animation: drop 1.5s ease;
 @media screen and (max-width: 1024px) {
 .presentation {
 flex-direction: column;
+
 }
 .introduction {
 margin-top: 5vh;
